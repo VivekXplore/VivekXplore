@@ -57,7 +57,7 @@
 
 
 ### 📬 **Connect with Me**  
-💼 **LinkedIn:** [Your LinkedIn Profile]((https://www.linkedin.com/in/bibek-acharya-b86063311/))  
+💼 **LinkedIn:** ((https://www.linkedin.com/in/bibek-acharya-b86063311/))  
 📧 **Email:** vivek.acharya1146@gmail.com  
 
 ---
