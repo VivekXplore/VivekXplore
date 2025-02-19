@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Bibek Acharya 👋</h1>
 
 <p align="center">
-🚀 CSIT Student | Future Engineer | Python & AI Enthusiast  
+🚀 CSIT Student | Future Engineer |  
 💡 Passionate about Web Development, AI & Data Science  
 🌱 Currently Learning: Django | REST API | AI Integration  
 📌 Open to collaboration & new opportunities  
@@ -35,7 +35,7 @@
 
 ### 🏆 **Projects & Contributions**  
 
-#(1)🎉 **[Booksy.io (GitHub Repo Link)]** – Event Management Platform  
+#(1)🎉 **[Booksy.io (https://github.com/VivekXplore/Booksy.io)]** – Event Management Platform  
 **Booksy.io** makes event booking easy!  
 - 📅 **Book Events** – Find and reserve events with ease.  
 - 🔐 **Google Sign-in** – Fast authentication via Google.  
@@ -49,9 +49,8 @@
 🔹 **Payments:** PayPal API  
 🔹 **Authentication:** Google OAuth 2.0  
 🔹 **Deployment:** Vercel
-
-🔗 **Live Demo:** [Link if available]  
-🔗 **GitHub Repo:** [Your GitHub Repo Link]  
+ 
+🔗 **GitHub Repo:** [https://github.com/VivekXplore/Booksy.io]  
 
 ---
 
