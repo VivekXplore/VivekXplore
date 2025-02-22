@@ -2,8 +2,10 @@
 
 <p align="center">
 🚀 Learner | Hates coding 
-💡 Passionate about Web Development, AI & Data Science  
-🌱 Currently Learning: Django | REST API | AI Integration  
+
+
+
+<br>
 📌 Open to collaboration & new opportunities  
 </p>
 
