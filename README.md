@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Bibek Acharya 👋</h1>
 
 <p align="center">
-🚀 CSIT Student | Future Engineer |  
+🚀 Learner | Hates coding 
 💡 Passionate about Web Development, AI & Data Science  
 🌱 Currently Learning: Django | REST API | AI Integration  
 📌 Open to collaboration & new opportunities  
